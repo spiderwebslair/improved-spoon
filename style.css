@@ -1,0 +1,25 @@
+body{
+	background-color: #000033;
+	font-family: Verdana
+
+}
+
+h1{
+	color: #eeeeee;
+	text-align:center;
+}
+
+h2{
+	color: #eeeeee
+}
+
+p{
+	color: #5b5b5b
+	
+}
+
+footer{
+	text-align: center
+	border-top: 2pt solid #003300
+	padding: 5pt
+}
